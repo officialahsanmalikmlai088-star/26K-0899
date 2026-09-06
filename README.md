@@ -1,6 +1,6 @@
 # 26K-0899
 FAST-NUCES Assignments/lab tasks...
-![Profile Picture](profile.jpg)
+![Profile Picture](M_Ahsan.jpg)
 
 # Muhammad Ahsan
 
