@@ -15,7 +15,7 @@ FAST-NUCES Assignments/lab tasks...
 - C Programming
 - Git & GitHub
 - Problem Solving
-- HTML & Cpp
+- HTML & CSS
 
 ## Projects
 
