@@ -30,3 +30,14 @@ A simple portfolio website showcasing my skills and projects.
 ## Contact
 
 Email: officialahsanmalik.ml.ai088@gmail.com
+
+## Hobbies & Extracurriculars
+
+1. Sketching
+2. Reading Space & Science Fiction
+3. Playing Chess
+   - [x] Learn the basic rules of chess
+   - [x] Practice chess puzzles
+   - [ ] Improve strategic thinking
+   - [ ] Participate in a chess competition
+4. Coding
